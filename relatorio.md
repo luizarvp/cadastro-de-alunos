@@ -4,10 +4,10 @@
 
 | Nome | Matrícula |
 |---|---|
-| NOME DO INTEGRANTE 1 | MATRÍCULA |
-| NOME DO INTEGRANTE 2 | MATRÍCULA |
-| NOME DO INTEGRANTE 3 | MATRÍCULA |
-| NOME DO INTEGRANTE 4 | MATRÍCULA |
+| Luiza Ribeiro Ventura Pires | 1250100226 |
+| Maria Eduarda Pires Gonçalves Medrado | 1250101767 |
+| Diogo Gualberto Martins Prudencio | 1250112212 |
+| Bernardo de Freitas Aguiar | 1250111320 |
 
 ## 1. Introdução
 
